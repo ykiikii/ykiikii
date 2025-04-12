@@ -1,0 +1,5 @@
+- 👋 Hey, I'm Kiki!
+- 👀 I’m interested in web- and game development.
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 📫 How to reach me: Discord (.kiikii)
+- 😄 Pronouns: she/her
